@@ -2,7 +2,7 @@ package lesson1;
 
 public class HomeWorkApp {
     public static void main(String[] args){
-        System.out.println("Hello world");
+        System.out.println("Hello world!");
         printThreeWords();
         checkSumSign(1,-2);
         printColor(-101);
